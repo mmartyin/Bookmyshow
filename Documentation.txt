@@ -1,0 +1,24 @@
+1.	Documentation	
+
+	Login -Dhaval
+	Register -Dhaval
+	Payment Details -Tejal
+	Movie Trailers And All Details,Book ticket Button, Conatct Us,About Us- Shradha
+	Seat List, confirmation and Details -Adarsh
+	Movie List Calender and Timing TheatreList - Sumesh
+
+
+
+
+	
+		
+	
+	
+	
+		
+
+	
+
+
+
+	
